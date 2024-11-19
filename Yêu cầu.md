@@ -1,8 +1,14 @@
-## Xây dựng giao diện website theo thiết kế sau đây:
+## Yêu cầu xây dựng giao diện theo thiết kế
 
-https://www.figma.com/design/GhVfw1SEBPyOyQxccaTBU6/Travel-Blog?node-id=1-38&m=dev
+- File thiết kế: https://www.figma.com/design/GhVfw1SEBPyOyQxccaTBU6/Travel-Blog?node-id=1-38&m=dev
+- Sau khi hoàn thành bài làm, đẩy code lên github deploy với vercel.
+- Nộp bài tại: https://forms.gle/vQKyCcK7vMT3w8cu6
+- Commit cuối cùng phải trong khoảng thời gian làm bài, commit ngoài thời gian làm bài thì cả bài làm sẽ bị huỷ.
+- Không sử dụng thư viện CSS (ví dụ: Bootstrap, Tailwind).
+- Không mở google, chatgpt, w3schools hay bất cứ công cụ tìm kiếm nào khác ngoài các trang tham khảo icons, font-family.
+- Không sử dụng các phần mềm, công cụ ghi hình, liên lạc trong suốt quá trình làm bài.
 
-## Thang điểm từng phần:
+## Thang điểm từng phần
 
 1. Header: 1 điểm
 2. Banner: 1 điểm
@@ -21,9 +27,3 @@ Mỗi lần mắc phải những lỗi sau đây sẽ bị trừ 0.25 điểm:
 5. Sai khác các chi tiết trong thiết kế.
 6. Lỗi chính tả.
 7. Đặt tên class, id bằng tiếng Việt hoặc không mô tả đúng tính năng.
-
-## Lưu ý khác:
-
-- Không sử dụng thư viện CSS (ví dụ: Bootstrap, Tailwind).
-- Không mở google, chatgpt, w3schools hay bất cứ công cụ tìm kiếm nào khác ngoài các trang tham khảo icons, font-family.
-- Không sử dụng các phần mềm, công cụ ghi hình, liên lạc trong suốt quá trình làm bài.
