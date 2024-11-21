@@ -13,7 +13,7 @@
 1. Header: 1 điểm
 2. Banner: 1 điểm
 3. Recent articles: 3 điểm
-4. Article list: 3 điểm
+4. Articles list: 3 điểm
 5. Footer: 2 điểm
 
 ## Các lỗi trừ điểm
